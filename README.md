@@ -45,16 +45,16 @@ My name is Anjali Katara and I'm a Data Scientist/Data Analyst/Data engineer. I'
 
 ## &#x270d; Blog & Writing
 
-- 💬 You can find my articles on my website at [www.shivamch.me](https://shivamch.me) as well as on [Medium](https://medium.com/@shivam.chauhan21).
+- 💬 You can find my articles on my website at as well as on [Medium].
 - ⚡ I also love to collaborate on projects or hackathons related to Data Science & Business Analytics 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Chauhanshi/Chauhanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhanshi&hide=powershell,java,html,Css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/anjalikatara10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikatara10&hide=powershell,java,html,Css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Chauhanshi/Chauhanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chauhanshi&show_icons=true&theme=dark&count_private=True" />
+<a href="https://github.com/anjalikatara10/anjalikatara10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikatara10&show_icons=true&theme=dark&count_private=True" />
 
 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
