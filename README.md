@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shivam Chauhan and I'm a Data Scientist/Data Analyst/Data engineer. I'm a graduate student at Northeastern University majoring in Analytics and currently working as Data Science Research Assistant. You can find me on [![LinkedIn][3.2]][3].
+My name is Anjali Katara and I'm a Data Scientist/Data Analyst/Data engineer. I'm a graduate student at Northeastern University majoring in Analytics and currently working as Data Science Research Assistant. You can find me on [![LinkedIn][3.2]][3].
 
 - 🔭 Actively looking for an full-time oppurtunity as a Data scientist, Machine Learning engineer, or Data Analyst
 - 🌱 Python, R, SQL, Tableau, Spark, AWS, GIS and Hadoop but not limited to are few of my preferred tech tools.
@@ -59,4 +59,4 @@ My name is Shivam Chauhan and I'm a Data Scientist/Data Analyst/Data engineer. I
 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[3]: https://www.linkedin.com/in/chauhan-shivam/
+[3]: https://www.linkedin.com/in/anjali-katara/
