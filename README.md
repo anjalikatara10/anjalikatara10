@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 My name is Anjali Katara and I'm a Data Scientist/Data Analyst/Data engineer. I'm a graduate student at Northeastern University majoring in Analytics. You can find me on [![LinkedIn][3.2]][3].
 
-- 🔭 Actively looking for an full-time oppurtunity as a Data Analyst or Data Engineer
-- 🌱 Python, R, SQL, Tableau, Spark, AWS, GIS and Hadoop but not limited to are few of my preferred tech tools.
-- 📫 How to reach me: anjalikatara10@gmail.com
+- Actively looking for an full-time oppurtunity as a Data Analyst or Data Engineer
+- Python, R, SQL, Tableau, Spark, AWS, GIS and Hadoop but not limited to are few of my preferred tech tools.
+- How to reach me: anjalikatara10@gmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
