@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Anjali Katara and I'm a Data Enthusiastic. 
+My name is Anjali Katara and I am a Data Enthusiastic. 
 Graduated with a Master's Degree in Data Analytics from Northeastern University. Passionate about obtaining rich insights from data that helps drive business growth. Have hands-on experience with using machine learning algorithms for predictive analysis and feature importance, data visualization, statistical analysis and natural language processing. You can find me on [![LinkedIn][3.2]][3]. 
 
 - Actively looking for an full-time oppurtunity as a Data Analyst or Data Engineer
