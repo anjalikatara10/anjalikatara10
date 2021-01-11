@@ -23,12 +23,6 @@ Graduated with a Master's Degree in Data Analytics from Northeastern University.
 ![](https://img.shields.io/badge/Tools-QGIS-informational?style=flat&logo=Qgis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Gitpod-informational?style=flat&logo=Gitpod&logoColor=white&color=2bbc8a)
 
-
-## &#x270d; Blog & Writing
-
-- 💬 You can find my articles on my website at as well as on [Medium].
-- ⚡ I also love to collaborate on projects or hackathons related to Data Science & Business Analytics 
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/anjalikatara10">
